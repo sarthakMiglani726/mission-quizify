@@ -28,8 +28,14 @@ In today's educational landscape, students and learners face challenges in reinf
     git clone https://github.com/sarthakMiglani726/mission-quizify.git
     cd mission-quizify
     ```
+    
+2. **Create and activate a virtual environment**:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 
-2. **Install Dependencies**: 
+3. **Install Dependencies**: 
     ```bash
     pip install -r requirements.txt
     ```
