@@ -42,7 +42,7 @@ In today's educational landscape, students and learners face challenges in reinf
 
 #### Configuration
 1. **Service Account Key**: Place the downloaded service account key file in the project directory.
-2. **Environment Variables**: Set up environment variables for authentication:
+2. **Environment Variables**: Set up environment variables for authentication, also rename the service-account-key.json to authentication.json:
     ```bash
     export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-key.json"
     ```
