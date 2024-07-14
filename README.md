@@ -30,10 +30,10 @@ In today's educational landscape, students and learners face challenges in reinf
     ```
     
 2. **Create and activate a virtual environment**:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
 
 3. **Install Dependencies**: 
     ```bash
